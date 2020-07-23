@@ -1,0 +1,27 @@
+var annotated_dup =
+[
+    [ "BackgroundHandler", "class_background_handler.html", null ],
+    [ "BackgroundsHandler", "class_backgrounds_handler.html", "class_backgrounds_handler" ],
+    [ "Bullet", "class_bullet.html", "class_bullet" ],
+    [ "Centipede", "class_centipede.html", "class_centipede" ],
+    [ "CentipedeBody", "class_centipede_body.html", "class_centipede_body" ],
+    [ "CentipedeHead", "class_centipede_head.html", "class_centipede_head" ],
+    [ "CollisionDetector", "class_collision_detector.html", "class_collision_detector" ],
+    [ "CollisionHandler", "class_collision_handler.html", "class_collision_handler" ],
+    [ "Constants", "class_constants.html", "class_constants" ],
+    [ "FontNotFound", "class_font_not_found.html", null ],
+    [ "Game", "class_game.html", "class_game" ],
+    [ "GameBackgroundNotFound", "class_game_background_not_found.html", null ],
+    [ "GameEntity", "class_game_entity.html", "class_game_entity" ],
+    [ "GameEntityNotFound", "class_game_entity_not_found.html", null ],
+    [ "GameProcess", "class_game_process.html", "class_game_process" ],
+    [ "ImageHandler", "class_image_handler.html", "class_image_handler" ],
+    [ "ImageNotFound", "class_image_not_found.html", null ],
+    [ "Movable", "class_movable.html", "class_movable" ],
+    [ "Mushroom", "class_mushroom.html", "class_mushroom" ],
+    [ "MushroomField", "class_mushroom_field.html", "class_mushroom_field" ],
+    [ "PlayerShip", "class_player_ship.html", "class_player_ship" ],
+    [ "Score", "class_score.html", "class_score" ],
+    [ "Spider", "class_spider.html", "class_spider" ],
+    [ "SplashScreenNotFound", "class_splash_screen_not_found.html", null ]
+];

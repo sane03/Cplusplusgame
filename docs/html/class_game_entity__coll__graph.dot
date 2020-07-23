@@ -1,0 +1,6 @@
+digraph "GameEntity"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  Node8 [label="{GameEntity\n||+ GameEntity()\l+ getSprite()\l+ constants()\l+ isLive()\l+ setState()\l}",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+}

@@ -1,0 +1,11 @@
+digraph "PlayerShip::LoadBullet"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node14 [label="PlayerShip::LoadBullet",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node14 -> Node15 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node15 [label="PlayerShip::startPos",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_ship.html#ab7cefcd91e2b829ab855e5885a0bfa8a",tooltip="Tracks player position to bind it with bullet creation. "];
+  Node15 -> Node16 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node16 [label="PlayerShip::player",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_player_ship.html#a1272478c6967b5847b7825ae0b268e03",tooltip="Returns a sprite associated to player. "];
+}

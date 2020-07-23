@@ -1,0 +1,9 @@
+digraph "GameProcess::receiveInput"
+{
+  edge [fontname="Helvetica",fontsize="10",labelfontname="Helvetica",labelfontsize="10"];
+  node [fontname="Helvetica",fontsize="10",shape=record];
+  rankdir="LR";
+  Node62 [label="GameProcess::receiveInput",height=0.2,width=0.4,color="black", fillcolor="grey75", style="filled", fontcolor="black"];
+  Node62 -> Node63 [color="midnightblue",fontsize="10",style="solid",fontname="Helvetica"];
+  Node63 [label="GameProcess::move",height=0.2,width=0.4,color="black", fillcolor="white", style="filled",URL="$class_game_process.html#a7355b3dfe11864d434a4701f7b1d0f6d",tooltip="Evaluates the actions of the keyboard input to player. "];
+}
